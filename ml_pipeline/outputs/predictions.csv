@@ -1,0 +1,201 @@
+Startup,Cohort,Vertical,Technology,Graduation,Graduation_Probability,Risk_Band,TotalJobs,Revenue,Investment (In USD)
+APRUS,1,Health/Health-tech,Artificial Intelligence (AI) and Machine Learning (ML),Graduated,0.885,High,15,14720000.0,0
+BERA,1,E-Commerce,SAAS,Graduated,0.98,High,55,53270000.0,0
+Darewro,1,Supplychain,Others,Graduated,0.925,High,292,72778780.0,0
+Durrani Stems,1,Education/Ed-Tech,SAAS,Not Graduated,0.14,Low,3,540000.0,0
+E-Guard,1,Clean-tech/Renewable Energy/Green-tech,Internet of Things (IoT),Graduated,0.625,Medium,3,0.0,0
+Eleven.pk,1,E-Commerce,SAAS,Graduated,0.975,High,16,46668939.0,0
+Franchise.pk,1,Consumer Services,SAAS,Graduated,0.865,High,15,12533311.0,0
+heirloom,1,Consumer Services,SAAS,Dropout,0.015,Low,0,0.0,0
+Islam's Icon,1,Education/Ed-Tech,Others,Dropout,0.025,Low,0,0.0,0
+Kaltoor,1,E-Commerce,SAAS,Not Graduated,0.11,Low,8,250000.0,0
+Micro Labs,1,Health/Health-tech,Internet of Things (IoT),Dropout,0.015,Low,0,0.0,0
+Peshawar Food Diaries,1,Food/Food-tech,SAAS,Dropout,0.035,Low,0,0.0,0
+Smart Ads,1,Mar-tech/Marketing/Market Place,Internet of Things (IoT),Not Graduated,0.07,Low,2,0.0,0
+Smart Tubewell,1,Clean-tech/Renewable Energy/Green-tech,Internet of Things (IoT),Graduated,0.475,Medium,11,300000.0,0
+Suaave,1,Consumer Services,AR (Augmented Reality) and VR (Virtual Reality),Not Graduated,0.04,Low,6,386000.0,0
+Triangle PR,1,Mar-tech/Marketing/Market Place,SAAS,Dropout,0.02,Low,0,0.0,0
+Newshunt,1,0,0,Dropout,0.005,Low,0,0.0,0
+Tutors Gateway,2,Education/Ed-Tech,SAAS,Graduated,0.965,High,504,20000000.0,0
+10x gems,2,E-Commerce,SAAS,Dropout,0.05,Low,0,0.0,0
+Automatia,2,Clean-tech/Renewable Energy/Green-tech,Internet of Things (IoT),Dropout,0.045,Low,0,0.0,0
+Azadi E Bike,2,Supplychain,HaaS,Graduated,0.85,High,9,2295000.0,0
+Bajaz.Pk,2,E-Commerce,SAAS,Graduated,0.855,High,27,583000.0,0
+Chimera Games,2,Animation/Gaming,SAAS,Dropout,0.08,Low,6,0.0,0
+ClanComm,2,Mar-tech/Marketing/Market Place,SAAS,Dropout,0.005,Low,0,0.0,0
+EGP,2,Animation/Gaming,SAAS,Not Graduated,0.045,Low,3,45000.0,0
+Food Dolly,2,Food/Food-tech,SAAS,Graduated,0.945,High,25,2077000.0,0
+Gamified Education,2,Education/Ed-Tech,SAAS,Dropout,0.045,Low,3,0.0,0
+KSA Robotics,2,Health/Health-tech,Others,Dropout,0.1,Low,8,295000.0,0
+Nano IT,2,Travel/Tourism/Hospitality,AR (Augmented Reality) and VR (Virtual Reality),Graduated,0.805,High,47,125900000.0,0
+Qareeb,2,E-Commerce,SAAS,Graduated,0.99,High,35,35591708.0,0
+Stop the Drop,2,Clean-tech/Renewable Energy/Green-tech,Artificial Intelligence (AI) and Machine Learning (ML),Dropout,0.045,Low,0,0.0,0
+ZeeOrganics,2,Food/Food-tech,SAAS,Graduated,0.67,Medium,6,96710.0,0
+AEKONTECH,3,Artifical Intelligence (AI),Internet of Things (IoT),Dropout,0.105,Low,5,0.0,0
+AERO SHADES,3,Consumer Services,HaaS,Not Graduated,0.205,Low,14,2880000.0,0
+Brown Energy,3,Clean-tech/Renewable Energy/Green-tech,HaaS,Graduated,0.82,High,5,16000000.0,0
+Certified Gentlemen,3,Consumer Services,SAAS,Dropout,0.06,Low,5,31000.0,0
+DOTTV,3,Mar-tech/Marketing/Market Place,SAAS,Dropout,0.15,Low,5,60000.0,0
+EclisseFrangances,3,Consumer Services,SAAS,Graduated,0.71,High,17,1685000.0,0
+ED Energy,3,Clean-tech/Renewable Energy/Green-tech,Internet of Things (IoT),Graduated,0.95,High,24,18595000.0,0
+Endoc Sethi Tech,3,Software/SAAS,Artificial Intelligence (AI) and Machine Learning (ML),Dropout,0.08,Low,5,0.0,0
+ERISP Ghazan,3,Software/SAAS,SAAS,Graduated,0.96,High,63,60000000.0,0
+Etourney,3,Animation/Gaming,SAAS,Dropout,0.07,Low,4,46000.0,0
+Haq Services,3,Consumer Services,SAAS,Not Graduated,0.265,Low,15,849000.0,0
+Iotics,3,Consumer Services,Blockchain and Cryptocurrency,Not Graduated,0.165,Low,5,3000000.0,0
+Keytaab,3,Education/Ed-Tech,SAAS,Dropout,0.08,Low,15,0.0,0
+Motortec,3,E-Commerce,SAAS,Graduated,0.94,High,40,4574470.0,0
+Nano Hive,3,Clean-tech/Renewable Energy/Green-tech,Nono-tech,Graduated,0.725,High,7,120060.0,0
+SubHealth,3,Health/Health-tech,SAAS,Graduated,0.965,High,245,1600000.0,0
+Zaangu,3,Education/Ed-Tech,SAAS,Dropout,0.015,Low,2,0.0,0
+Zero Farm,3,Agriculture/AgriTech,Others,Dropout,0.14,Low,9,0.0,0
+AI-ThalaScreen,4,Health/Health-tech,Artificial Intelligence (AI) and Machine Learning (ML),Graduated,0.73,High,17,0.0,0
+Bit Bots,4,Education/Ed-Tech,SAAS,Graduated,0.405,Medium,10,570000.0,0
+China B2B Shop,4,E-Commerce,SAAS,Dropout,0.65,Medium,6,2215000.0,0
+Chingaari,4,E-Commerce,SAAS,Graduated,0.765,High,14,720000.0,0
+Explore Pakistan,4,Travel/Tourism/Hospitality,SAAS,Graduated,0.895,High,11,2135350.0,0
+Gonnaby,4,Animation/Gaming,AR (Augmented Reality) and VR (Virtual Reality),Not Graduated,0.05,Low,4,0.0,0
+Homies Services,4,Consumer Services,SAAS,Graduated,0.91,High,41,1831720.0,0
+Infiniti Leathers,4,Supplychain,SAAS,Dropout,0.15,Low,24,137000.0,0
+Khawateen Rozgar Service,4,Consumer Services,SAAS,Graduated,0.88,High,673,351610.0,0
+Roomlet.pk,4,Travel/Tourism/Hospitality,SAAS,Dropout,0.02,Low,2,0.0,0
+Sci Tech,4,Software/SAAS,Mobile Applications,Dropout,0.085,Low,10,0.0,0
+Softhat,4,Education/Ed-Tech,SAAS,Graduated,0.505,Medium,10,768200.0,0
+Sustainable Living Solutions,4,Consumer Services,SAAS,Dropout,0.19,Low,14,600000.0,0
+Teek Sho,4,Consumer Services,SAAS,Graduated,0.95,High,49,9138280.0,0
+Waste Hunters,4,Consumer Services,Internet of Things (IoT),Not Graduated,0.1,Low,14,100000.0,0
+Water wastages and control billing,4,Clean-tech/Renewable Energy/Green-tech,Internet of Things (IoT),Dropout,0.215,Low,5,0.0,0
+AvanceRobotics,5,Agriculture/AgriTech,HaaS,Graduated,0.735,High,9,254000.0,0
+BizB,5,E-Commerce,SAAS,Graduated,0.87,High,16,85800000.0,250000
+Charsole,5,E-Commerce,SAAS,Graduated,0.87,High,11,1173432.0,0
+Global Nomad,5,Supplychain,SAAS,Graduated,0.75,High,24,1180000.0,0
+Hitch a Ride,5,Shared Economy,SAAS,Dropout,0.225,Low,9,0.0,0
+HolisticRehabilitationServices,5,Health/Health-tech,SAAS,Graduated,0.715,High,52,19000.0,0
+Joule,5,Food/Food-tech,SAAS,Not Graduated,0.105,Low,5,4600.0,0
+Lala Repairs,5,Consumer Services,SAAS,Graduated,0.74,High,17,2413846.0,0
+Nayab's Rogue,5,E-Commerce,SAAS,Dropout,0.24,Low,21,655000.0,0
+SidRack,5,E-Commerce,SAAS,Graduated,0.98,High,40,22000000.0,0
+Solasew,5,Consumer Services,HaaS,Graduated,0.72,High,17,3713680.0,0
+SweatCure,5,Health/Health-tech,AR (Augmented Reality) and VR (Virtual Reality),Dropout,0.02,Low,2,0.0,0
+T2P Labs,5,Consumer Services,SAAS,Dropout,0.005,Low,2,0.0,0
+TailorBird,5,E-Commerce,SAAS,Not Graduated,0.1,Low,6,420000.0,0
+Teleport,5,Supplychain,HaaS,Graduated,0.93,High,34,20000000.0,0
+WorkFit,5,Supplychain,SAAS,Dropout,0.035,Low,4,0.0,0
+ZamaSchool Edtech (Pvt) Ltd,5,Education/Ed-Tech,SAAS,Graduated,0.915,High,13,3000000.0,0
+Zarkun Enterprises,5,Consumer Services,SAAS,Graduated,0.99,High,9180,30000000.0,0
+Baithak(Book Your Hall),6,Consumer Services,SAAS,Graduated,0.18,Low,9,13000.0,0
+Bataan Models,6,Prop-tech/Construction,Internet of Things (IoT),Graduated,0.9,High,16,5000000.0,0
+BeingBro,6,Travel/Tourism/Hospitality,SAAS,Dropout,0.01,Low,3,0.0,0
+DhobiGhaat.pk,6,Consumer Services,SAAS,Dropout,0.025,Low,4,347442.0,0
+Explorify,6,Travel/Tourism/Hospitality,SAAS,Dropout,0.095,Low,8,430000.0,0
+Friendship Technologies,6,Software/SAAS,Internet of Things (IoT),Dropout,0.025,Low,3,0.0,0
+Heallax,6,Health/Health-tech,SAAS,Dropout,0.01,Low,3,0.0,0
+IRC SOLAR,6,Clean-tech/Renewable Energy/Green-tech,SAAS,Graduated,0.94,High,18,7852350.0,0
+karkhanay.com,6,E-Commerce,SAAS,Graduated,0.79,High,223,625000.0,0
+Khapal Bazar,6,Consumer Services,SAAS,Graduated,0.885,High,11,9742300.0,0
+Khumbi Farm,6,Agriculture/AgriTech,Others,Dropout,0.05,Low,0,0.0,0
+OptimumBeing,6,Health/Health-tech,SAAS,Graduated,0.87,High,8,3246681.0,0
+Ripple Marketing,6,Mar-tech/Marketing/Market Place,SAAS,Dropout,0.07,Low,22,201000.0,0
+The Blue's Studio,6,Mar-tech/Marketing/Market Place,SAAS,Graduated,0.765,High,61,15213000.0,0
+The Reformists,6,Education/Ed-Tech,SAAS,Graduated,0.74,High,19,3400000.0,0
+The Peshawar Post,6,Mar-tech/Marketing/Market Place,SAAS,Dropout,0.115,Low,6,45000.0,0
+Voltric,6,Clean-tech/Renewable Energy/Green-tech,SAAS,Graduated,0.965,High,9,7748000.0,0
+Ashfitness.pk,7,Health/Health-tech,SAAS,Dropout,0.085,Low,2,200000.0,0
+Flyaway Hub,7,Aerospace/Avionics/Aviation,SAAS,Graduated,0.995,High,32,12539300.0,0
+Plantry,7,Consumer Services,SAAS,Not Graduated,0.095,Low,7,408000.0,0
+KSA Robotics ,7,Clean-tech/Renewable Energy/Green-tech,Internet of Things (IoT),Dropout ,0.11,Low,3,0.0,0
+Thrifter.pk,7,E-Commerce,SAAS,Not Graduated,0.18,Low,16,101500.0,0
+Kween,7,E-Commerce,SAAS,Graduated,0.655,Medium,11,200000.0,0
+LaWomen,7,Consumer Services,SAAS,Graduated,0.82,High,29,70000.0,0
+JANS Enterprises,7,Food/Food-tech,SAAS,Graduated,0.97,High,51,20000000.0,0
+Paktax,7,Consumer Services,SAAS,Not Graduated,0.04,Low,10,2000.0,0
+Wonder oil,7,Health/Health-tech,SAAS,Dropout,0.045,Low,3,0.0,0
+Xeno Robotics,7,Consumer Services,Web Development,Not Graduated,0.325,Low,19,1437000.0,0
+PAKMCQS,7,Education/Ed-Tech,SAAS,Graduated,0.75,High,4,656000.0,0
+uSteth,7,Health/Health-tech,Internet of Things (IoT),Graduated,0.895,High,25,1356000.0,0
+Menrvah,8,Manufacturing,SAAS,Graduated,0.905,High,15,1000000.0,0
+Waah Mantu,8,Food/Food-tech,SAAS,Graduated,0.75,High,12,605000.0,0
+Pekhabar,8,Mar-tech/Marketing/Market Place,SAAS,Not Graduated,0.09,Low,10,0.0,0
+Brayt,8,E-Commerce,SAAS,Graduated,0.975,High,74,42678357.0,0
+Waterness,8,Clean-tech/Renewable Energy/Green-tech,Internet of Things (IoT),Graduated,0.8,High,5,25000.0,0
+Altimate Outdoors,8,E-Commerce,SAAS,Graduated,0.87,High,7,3049900.0,0
+Northwest Technologies,8,Manufacturing,Web Development,Graduated,0.68,Medium,12,0.0,0
+La Tre,8,Health/Health-tech,Others,Dropout,0.24,Low,5,0.0,0
+Classrank,8,Education/Ed-Tech,SAAS,Dropout,0.01,Low,0,0.0,0
+E-Retail Point,8,Software/SAAS,SAAS,Graduated,0.69,Medium,22,4500000.0,0
+Cobblers Cartel,8,E-Commerce,SAAS,Graduated,0.975,High,26,23000000.0,0
+Dhaabay,8,Food/Food-tech,SAAS,Not Graduated,0.16,Low,21,150000.0,0
+Reblue,8,Software/SAAS,SAAS,Not Graduated,0.165,Low,12,329000.0,0
+Prime Life,8,Health/Health-tech,SAAS,Dropout,0.05,Low,3,0.0,0
+Pdf Sehat(Smc-Private)Limited,8,Health/Health-tech,SAAS,Graduated,0.975,High,40,12500000.0,0
+Laraib cosmetics,8,E-Commerce,SAAS,Graduated,0.36,Low,13,376650.0,0
+Query city,8,Education/Ed-Tech,SAAS,Not Graduated,0.08,Low,3,0.0,0
+Mdot Pharmaceuticals,9,Health/Health-tech,SAAS,Dropout,0.1,Low,5,0.0,0
+E-Triangle ,9,0,0,Did not sign the contract,0.035,Low,0,0.0,0
+Maka The Plant Care System,9,Agriculture/AgriTech,Internet of Things (IoT),Graduated,0.695,Medium,5,0.0,0
+Owl Technologies,9,Supplychain,SAAS,Not Graduated,0.215,Low,51,27100.0,0
+Chefathomes,9,Food/Food-tech,SAAS,Dropout,0.08,Low,12,0.0,0
+Dhaaki,9,Supplychain,SAAS,Dropout,0.155,Low,9,0.0,0
+Digital Sehat Ghar,9,Health/Health-tech,Mobile Applications,Not Graduated,0.275,Low,10,312800.0,0
+The Mirror of Society,9,Education/Ed-Tech,SAAS,Graduated,0.695,Medium,6,225000.0,0
+Alfabee,9,E-Commerce,SAAS,Graduated,0.93,High,17,49760682.0,0
+Digital Saqafat private Limited,9,Travel/Tourism/Hospitality,SAAS,Graduated,0.82,High,15,720000.0,0
+Learnn,9,Artifical Intelligence (AI),Artificial Intelligence (AI) and Machine Learning (ML),Not Graduated,0.175,Low,14,0.0,0
+EasyConvy,9,Shared Economy,Mobile Applications,Not Graduated,0.095,Low,6,356000.0,0
+Zu Eventra,9,Travel/Tourism/Hospitality,SAAS,Graduated,0.915,High,6,1617100.0,0
+Royal Dairies & Food Product,9,Food/Food-tech,SAAS,Not Graduated,0.845,High,50,30300000.0,0
+Px Solutions,9,Software/SAAS,SAAS,Graduated,0.76,High,5,595000.0,0
+The Enterprising Skills,9,Education/Ed-Tech,SAAS,Dropout,0.105,Low,20,0.0,0
+2 Friends Kitchen,10,Food/Food-tech,SAAS,Graduated,0.75,High,12,1042450.0,0
+DB Ecart,10,E-Commerce,SAAS,Not Graduated,0.285,Low,12,2190000.0,0
+Dice Digital Official,10,Mar-tech/Marketing/Market Place,SAAS,Dropout,0.015,Low,0,0.0,0
+Digital Tree,10,Software/SAAS,Internet of Things (IoT),Not Graduated,0.235,Low,3,2545000.0,0
+Drone Robotics,10,Agriculture/AgriTech,SAAS,Dropout,0.095,Low,15,315000.0,0
+E3Graphy,10,Health/Health-tech,Internet of Things (IoT),Not Graduated,0.1,Low,6,0.0,0
+Encoder Bytes Private Limited,10,Software/SAAS,Artificial Intelligence (AI) and Machine Learning (ML),Graduated,0.92,High,32,28706600.0,0
+EyeSmarty ,10,Software/SAAS,SAAS,Graduated,0.98,High,50,30975000.0,17000000
+Fashion With Style Hub,10,Manufacturing,Internet of Things (IoT),Graduated,0.915,High,26,7000000.0,0
+Gameotivity,10,Software/SAAS,Blockchain and Cryptocurrency,Graduated,0.935,High,38,13960000.0,0
+SCool.ai,10,Education/Ed-Tech,SAAS,Graduated,0.82,High,12,971500.0,0
+Guleshaoor,10,Education/Ed-Tech,SAAS,Not Graduated,0.145,Low,10,323000.0,0
+HealthNest ,10,Health/Health-tech,SAAS,Graduated,0.965,High,50,1581500.0,0
+Hunarmandan (centre for creativity) ,10,Education/Ed-Tech,Internet of Things (IoT),Graduated,0.845,High,35,73000.0,0
+Kaarkhaney ,10,Mar-tech/Marketing/Market Place,Internet of Things (IoT),Dropout,0.04,Low,3,250000.0,0
+LA Roche,10,E-Commerce,SAAS,Dropout,0.06,Low,2,50000.0,0
+Muse Agency 360,10,Mar-tech/Marketing/Market Place,SAAS,Dropout,0.1,Low,6,0.0,0
+PREPARELY,10,Education/Ed-Tech,SAAS,Dropout,0.055,Low,8,0.0,0
+Recart,10,E-Commerce,SAAS,Dropout,0.245,Low,5,0.0,0
+Stockchain,10,Supplychain,SAAS,Not Graduated,0.035,Low,0,0.0,0
+The Cool School ,10,Consumer Services,Internet of Things (IoT),Dropout,0.025,Low,1,29000.0,0
+Uzma Awan,10,E-Commerce,SAAS,Graduated,0.74,High,3,1810000.0,0
+Buildenable,10,Prop-tech/Construction,SAAS,Graduated,0.66,Medium,8,0.0,0
+Preloved Boutique ,11,Manufacturing,SAAS,Incubated,0.03,Low,5,20808.0,0
+Bmluxuries,11,Sports-tech,SAAS,Incubated,0.01,Low,3,295000.0,0
+The Kabari ,11,Consumer Services,SAAS,Incubated,0.05,Low,9,3719000.0,0
+Medic Patron,11,Health/Health-tech,SAAS,Incubated,0.16,Low,8,775000.0,0
+Shinelet Footwear (Private)Limited,11,Manufacturing,SAAS,Incubated,0.225,Low,55,25200000.0,0
+Needle Art &Handicraft,11,Manufacturing,AR (Augmented Reality) and VR (Virtual Reality),Incubated,0.155,Low,40,817990.0,0
+Batoor,11,Transport/Mobility/Logistics,SAAS,Incubated,0.045,Low,24,260000.0,0
+Geofence Attendance ,11,Software/SAAS,Internet of Things (IoT),Incubated,0.02,Low,8,0.0,0
+Smilecare.Pk,11,Health/Health-tech,SAAS,Incubated,0.025,Low,5,0.0,0
+Innovative Composite Engineering Pvt Ltd,11,Prop-tech/Construction,SAAS,Incubated,0.14,Low,20,4000000.0,0
+Pro-Organic,11,Agriculture/AgriTech,SAAS,Incubated,0.21,Low,5,1160830.0,0
+Tapitcard,11,E-Commerce,Internet of Things (IoT),Incubated,0.025,Low,12,780000.0,0
+Horizon Games,11,Animation/Gaming,SAAS,Incubated,0.11,Low,18,83740000.0,0
+Ghazala/Rooted,11,Health/Health-tech,AR (Augmented Reality) and VR (Virtual Reality),Incubated,0.04,Low,4,47000.0,0
+Khello,11,Animation/Gaming,SAAS,Incubated,0.05,Low,9,0.0,0
+Solar Safai,11,Clean-tech/Renewable Energy/Green-tech,SAAS,Incubated,0.16,Low,7,1271700.0,0
+Find Me Career,11,Education/Ed-Tech,SAAS,Incubated,0.125,Low,7,0.0,0
+Data Sense,11,E-Commerce,Artificial Intelligence (AI) and Machine Learning (ML),Incubated,0.07,Low,3,0.0,0
+Herbalmist ,11,Health/Health-tech,Internet of Things (IoT),Incubated,0.075,Low,6,14200.0,0
+Xplint/LimbTech Solution,11,Health/Health-tech,Artificial Intelligence (AI) and Machine Learning (ML),Incubated,0.055,Low,12,127100.0,0
+Kpstores,11,E-Commerce,SAAS,Incubated,0.055,Low,14,600000.0,0
+The Relaxed Lifestyle ,11,Education/Ed-Tech,Artificial Intelligence (AI) and Machine Learning (ML),Dropout,0.005,Low,0,0.0,0
+"Helpal, Inc.",11,Consumer Services,Internet of Things (IoT),Dropout,0.035,Low,4,0.0,0
+Rduinotronics,11,E-Commerce,SAAS,Incubated,0.145,Low,27,2485902.0,0
+English By Phone,11,Education/Ed-Tech,Internet of Things (IoT),Dropout,0.0,Low,0,0.0,0
+The Order Of Pen ,11,Education/Ed-Tech,Internet of Things (IoT),Incubated,0.095,Low,11,2288000.0,0
+Fitout/Second Chance,11,E-Commerce,SAAS,Incubated,0.1,Low,13,3696000.0,0
+Silsila Treks And Tours ,11,Travel/Tourism/Hospitality,SAAS,Incubated,0.035,Low,12,364000.0,0
+Nani,11,E-Commerce,SAAS,Incubated,0.06,Low,10,4216171.0,0
+Green Black,11,Clean-tech/Renewable Energy/Green-tech,HaaS,Incubated,0.28,Low,6,6000.0,0
